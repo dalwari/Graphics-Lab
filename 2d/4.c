@@ -1,3 +1,4 @@
+//STICKMAN ANIMATION
 // C Program to illustrate
 // OpenGL animation for revolution
 
